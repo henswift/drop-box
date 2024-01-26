@@ -1,0 +1,15 @@
+.body {
+  border: solid 2px red;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.body button {
+  border: solid 1px black;
+  background-color: white;
+  width: 100%;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+}
